@@ -41,20 +41,20 @@ This project aims to enable Atliq Hardware to make data-driven business decision
 - **Objective**: Analyze year-over-year sales, costs, and gross margins.
 - **Key Findings**:
   - Sales increased by over **204%** from 2020 to 2021, but gross margins slightly declined from **41.4%** in 2019 to **36.4%** in 2021.
-  - [View Report: P&L Statement by Fiscal Year](Excel-Sales-and-Finance-Analytics/)
+  - [View Report: P&L Statement by Fiscal Year](Excel-Sales-and-Finance-Analytics/files/P&L Statement by Fiscal Year.pdf)
 
 #### By Market
 - **Objective**: Evaluate profitability across different markets.
 - **Key Insights**:
   - The USA and India led in profitability, with sales of $87.8M and $161.3M respectively.
   - Germany had a lower gross margin (26.2%), indicating challenges in operational efficiency.
-  - [View Report: P&L Statement by Markets](./files/P&L_Statement_by_Markets.pdf)
+  - [View Report: P&L Statement by Markets](Excel-Sales-and-Finance-Analytics/files/P&L Statement by Markets.pdf)
 #### By Month
 - **Objective**: Track monthly performance for trends and seasonality.
 - **Key Highlights**:
   - Peak sales occurred during Q4, particularly in November and December.
   - Q4 2021 sales were over **160%** higher than Q4 2020, driven by holiday demand.
-  - [View Report: P&L Statement by Month](./files/P&L_Statement_by_Months.pdf)
+  - [View Report: P&L Statement by Month](Excel-Sales-and-Finance-Analytics/files/P&L Statement by Months.pdf)
  
 ---
 
