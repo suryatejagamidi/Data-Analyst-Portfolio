@@ -1,6 +1,3 @@
-# Creating a README file content for the Bike Sales Dashboard
-
-readme_content = """
 # Bike Sales Dashboard
 
 ## Overview
