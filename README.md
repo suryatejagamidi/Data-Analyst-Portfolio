@@ -14,6 +14,10 @@ Each project includes detailed documentation, datasets, and code where applicabl
 - **Tools**: Excel (Power Query, Power Pivot Tables,DAX, Dashboards).
 - **Details**: [Excel Sales and Finance Analytics](Excel-Sales-and-Finance-Analytics/files)
 
+3. ***[Call Center Performance Dashboard](call-center/readme.md)***:
+   - **Description**: A dynamic dashboard showcasing key call center performance metrics such as total calls, revenue, satisfaction ratings, and trends.
+   - **Tools**: Excel (Power Query, Power Pivot, DAX, Pivot Tables, Conditional Formatting, Charts, XLOOKUP, and some basic formulas(ex: averageifs, sumifs,counta,max,min,filter,textjoin,etc..).
+   - **Details**: [Call Center Performance Dashboard](call-center/data).
 
 ## Contact
 
