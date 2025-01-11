@@ -5,7 +5,7 @@ Each project includes detailed documentation, datasets, and code where applicabl
 
 ## Projects
 
-1. ***[Bike Sales Dashboard](Bike-Sales-Dashboard/readme.md)**:
+1. ***[Bike Sales Dashboard](Bike-Sales-Dashboard/readme.md)***:
    - A dashboard analyzing bike sales trends.
    - Tools: Excel (Power Query, Pivot Tables, Charts).
   
