@@ -3,6 +3,8 @@
 ## Overview
 The **Bike Sales Dashboard** provides insights into customer behavior, sales performance, and demographics, helping businesses make data-driven decisions. This interactive dashboard was built using **Microsoft Excel**, leveraging **Pivot Tables**, **Charts**, and **Slicers** for dynamic analysis.
 
+![Bike-Sales-Dashboard](./image.png)
+
 ---
 
 ## Key Features
