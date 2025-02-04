@@ -1,7 +1,6 @@
 # Call Center Performance Dashboard
 
-In this portfolio project, we build an **interactive Call Center Performance Dashboard** to analyze and visualize key metrics such as calls, durations, ratings, and revenue.
- This project demonstrates how Excel's powerful features like Data Models, Power Pivot, and DAX can be leveraged to create dynamic and visually appealing dashboards.
+In this portfolio project, I have built an **interactive Call Center Performance Dashboard** to analyze and visualize key metrics such as calls, durations, ratings, and revenue. This project demonstrates how I leveraged Excel's powerful features like Data Models, Power Pivot, and DAX to create dynamic and visually appealing dashboards.
 
 ![Call Center Dashboard](./dashboard-image.png)
 
@@ -9,7 +8,7 @@ In this portfolio project, we build an **interactive Call Center Performance Das
 
 ## **Project Overview**
 
-In the final lesson of the Excel module, we showcase the process of creating a fully interactive dashboard. This project focuses on:
+This project focuses on:
 - Designing a custom dashboard layout, including color themes and fonts.
 - Connecting and managing datasets using the **Data Model** feature of Excel.
 - Creating **KPIs** and calculations with **Power Pivot** and **DAX**.
@@ -20,17 +19,17 @@ In the final lesson of the Excel module, we showcase the process of creating a f
 
 ---
 
-## **What You'll Learn**
+## **What I learnt**
 - **Dashboard Design**:
-  - How to create an engaging layout with custom colors and fonts.
+  - Creating an engaging layout with custom colors and fonts.
 - **Data Modeling**:
-  - Use Excel's **Data Model** to create relationships between multiple datasets.
+  - I used Excel's **Data Model** to create relationships between multiple datasets.
 - **Power Pivot and DAX**:
-  - Create calculated fields and measures for KPIs like average ratings, total calls, and revenue.
+  - I have Created calculated fields and measures for KPIs like average ratings, total calls, and revenue.
 - **Pivot Tables and Charts**:
-  - Summarize data dynamically and visualize it with interactive slicers and charts.
+  - Summarized data dynamically and visualize it with interactive slicers and charts.
 - **Conditional Formatting**:
-  - Highlight trends using formatted data bars and color scales.
+  - Highlighting trends using formatted data bars and color scales.
 - **Dynamic Images**:
   - Display pictures that change based on slicer selection using **XLOOKUP**.
 
