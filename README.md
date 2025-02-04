@@ -9,16 +9,18 @@ Each project includes detailed documentation, datasets, and code where applicabl
    - A dashboard analyzing bike sales trends.
    - Tools: Excel (Power Query, Pivot Tables, Charts).
   
- 2. ***[Excel Sales and Finance Analytics of AtliQ hardware Company](Excel-Sales-and-Finance-Analytics/README.md)***
-- **Description**: An in-depth analysis of sales and financial data using Excel, highlighting trends, evaluating performance, and offering actionable recommendations.
-- **Tools**: Excel (Power Query, Power Pivot Tables,DAX, Dashboards).
-- **Details**: [Excel Sales and Finance Analytics](Excel-Sales-and-Finance-Analytics/files)
 
-3.  ***[Ecommerce sales analysis Dashboard](ecommerce/readme.md)***:
+2.  ***[Ecommerce sales analysis Dashboard](ecommerce/readme.md)***:
    - **Description**: An interactive dashboard analyzing e-commerce sales performance, tracking key metrics like revenue,
  profit, order count, and category-wise trends.
    - **Tools**: Excel (Power Query, Pivot Tables, measurece, realtionships, conditional formatting, xlookups, Charts)
    - **Details**: [Ecommerce sales analysis Dashboard](ecommerce/data).
+
+
+3. ***[Excel Sales and Finance Analytics of AtliQ hardware Company](Excel-Sales-and-Finance-Analytics/README.md)***
+- **Description**: An in-depth analysis of sales and financial data using Excel, highlighting trends, evaluating performance, and offering actionable recommendations.
+- **Tools**: Excel (Power Query, Power Pivot Tables,DAX, Dashboards).
+- **Details**: [Excel Sales and Finance Analytics](Excel-Sales-and-Finance-Analytics/files)
 
 
 4. ***[Call Center Performance Dashboard](call-center/readme.md)***:
