@@ -1,6 +1,6 @@
 # Call Center Performance Dashboard
 
-In this portfolio project, I have built an **interactive Call Center Performance Dashboard** to analyze and visualize key metrics such as calls, durations, ratings, and revenue. This project demonstrates how I leveraged Excel's powerful features like Data Models, Power Pivot, and DAX to create dynamic and visually appealing dashboards.
+In this project, I have built an **interactive Call Center Performance Dashboard** to analyze and visualize key metrics such as calls, durations, ratings, and revenue. This project demonstrates how I leveraged Excel's powerful features like Data Models, Power Pivot, and DAX to create dynamic and visually appealing dashboards.
 
 ![Call Center Dashboard](./dashboard-image.png)
 
