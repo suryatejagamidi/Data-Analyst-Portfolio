@@ -3,7 +3,7 @@
 ## Overview
 Atliq Presence Insights is a Power BI dashboard designed to track and analyze employee attendance patterns over a fiscal year, which starts from April and ends in March. The dashboard provides valuable insights into attendance percentages, work-from-home trends, and sick leave occurrences across different timeframes. The available data spans three months: **April, May, and June**.
 
-![HR-Analytics- Dashboard](./image.png)
+![HR-Analytics](./dashboard_image.png)
 
 ## Purpose
 The primary objective of this dashboard is to:
