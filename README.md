@@ -22,8 +22,14 @@ Each project includes detailed documentation, datasets, and code where applicabl
 - **Tools**: Excel (Power Query, Power Pivot Tables,DAX, Dashboards).
 - **Details**: [Excel Sales and Finance Analytics](Excel-Sales-and-Finance-Analytics/files)
 
+4. ***[Atliq Presence Insights - Employee Attendance Analysis](<AtliQ - HR Analytics/readme.md>)***
+- **Description**: An analytical dashboard in Power BI that tracks and visualizes employee attendance trends, work-from-home patterns, and sick leave over time.
+- **Tools**: Power BI (DAX, Data Visualization, Power Query, Dashboards)..
+- **Details**: [HR Data Analytics Dashboard](<AtliQ - HR Analytics>)
 
-4. ***[Call Center Performance Dashboard](call-center/readme.md)***:
+
+
+5. ***[Call Center Performance Dashboard](call-center/readme.md)***:
    - **Description**: A dynamic dashboard showcasing key call center performance metrics such as total calls, revenue, satisfaction ratings, and trends.
    - **Tools**: Excel (Power Query, Power Pivot, DAX, Pivot Tables, Conditional Formatting, Charts, XLOOKUP, and some basic formulas(ex: averageifs, sumifs,counta,max,min,filter,textjoin,etc..).
    - **Details**: [Call Center Performance Dashboard](call-center/data).
