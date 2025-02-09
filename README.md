@@ -41,7 +41,7 @@ Each project includes detailed documentation, datasets, and code where applicabl
 - **Details**: [SQL Financial Analytics](<AtliQ-finance Analytics using MySQL/queries>)
 
 
-7. ***[business Insights 360 Dashboard](<Business Insights-360/readme.md>)***:
+7. ***[business Insights 360](<Business Insights-360/readme.md>)***:
    - **Description**: A dynamic dashboard showcasing key call center performance metrics such as total calls, revenue, satisfaction ratings, and trends.
    - **Tools**: MySQL, Power BI (DAX, Data Visualization, Power Query, Dashboards)
    - **Details**: [business Insights 360](<Business Insights-360/data files>). 
