@@ -54,6 +54,15 @@ The dashboard leverages different attendance categories, including:
 - Assists in understanding leave patterns, enabling better **resource allocation**.
 - Supports data-driven decision-making regarding **attendance policies**.
 
+## challenges:
+- merging data from different worksheet  into single excel workbook using Power BI. So I have solved this isse with the help of Google, The Art of googling is so importanat. Here is the reference below with helped me. [link](https://blog.crossjoin.co.uk/2018/07/09/power-bi-combine-multiple-excel-worksheets/)
+
+
+## Future requirements
+- We can add sending alerts to emails, based on some conditions ex: if attendance% is below certain number, and many more.
+- we can set automatic data refresh with certain interval of time, so that we can get the accurate visuals.
+- setting security level for data like Access Privileges to restrict access to certain level of employees.
+
 ## Conclusion
 The Atliq Presence Insights dashboard serves as a **comprehensive attendance tracking tool**, enabling organizations to gain a deeper understanding of workforce behavior. By leveraging this data, businesses can optimize their HR policies and improve overall employee engagement and productivity.
 
