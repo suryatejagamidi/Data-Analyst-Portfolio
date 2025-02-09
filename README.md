@@ -29,8 +29,13 @@ Each project includes detailed documentation, datasets, and code where applicabl
 - **Details**: [HR Data Analytics Dashboard](<AtliQ - HR Analytics>)
 
 
+5. ***[SQL Project: Optimizing Financial Analytics](<AtliQ-finance Analytics using MySQL/readme.md>)***
+- **Description**: A MySQL-based financial analytics optimization for AtliQ Hardware, improving performance, scalability, and query execution.
+- **Tools**: MySQL (Joins, Aggregations, Stored Procedures, Views, Window Functions).
+- **Details**: [SQL Financial Analytics](<AtliQ-finance Analytics using MySQL/queries>)
 
-5. ***[Call Center Performance Dashboard](call-center/readme.md)***:
+
+6. ***[Call Center Performance Dashboard](call-center/readme.md)***:
    - **Description**: A dynamic dashboard showcasing key call center performance metrics such as total calls, revenue, satisfaction ratings, and trends.
    - **Tools**: Excel (Power Query, Power Pivot, DAX, Pivot Tables, Conditional Formatting, Charts, XLOOKUP, and some basic formulas(ex: averageifs, sumifs,counta,max,min,filter,textjoin,etc..).
    - **Details**: [Call Center Performance Dashboard](call-center/data).
