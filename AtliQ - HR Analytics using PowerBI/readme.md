@@ -6,7 +6,7 @@ Atliq Presence Insights is a Power BI dashboard designed to track and analyze em
 ![HR-Analytics](./dashboard_image.png)
 
 ### 🔗 Live Dashboard Link
-[Click here to explore the interactive Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVlZmYwNzAtZmJmMy00NWJmLThiNGUtMGI3MGZjMzRmNWVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click here to explore the interactive Atliq Presence Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVlZmYwNzAtZmJmMy00NWJmLThiNGUtMGI3MGZjMzRmNWVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Purpose
 The primary objective of this dashboard is to:
 - Monitor overall **attendance percentage** of employees.
