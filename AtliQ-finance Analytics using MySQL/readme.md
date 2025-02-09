@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on optimizing financial analytics for **AtliQ Hardware**, a global computer hardware manufacturer. The company previously relied on large Excel files, which led to inefficiencies in data analysis. By migrating to **MySQL**, the project enhanced performance, scalability, and overall data accessibility.
-- The Dataset contain more than 1 million records.
+- The Dataset contain million of records.
 
 ### 🔍 Business Context
 - AtliQ Hardware operates in **APAC, EU, NA, and LATAM** markets, offering high-performance computer components.
