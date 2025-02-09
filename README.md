@@ -23,7 +23,7 @@ Each project includes detailed documentation, datasets, and code where applicabl
 - **Details**: [Excel Sales and Finance Analytics](Excel-Sales-and-Finance-Analytics/files)
 
 
-4. ***[Atliq Presence Insights - Employee Attendance Analysis](<AtliQ - HR Analytics/readme.md>)***
+4. ***[Atliq Presence Insights - Employee Attendance Analysis](<AtliQ - HR Analytics using PowerBI/readme.md>)***
 - **Description**: An analytical dashboard in Power BI that tracks and visualizes employee attendance trends, work-from-home patterns, and sick leave over time.
 - **Tools**: Power BI (DAX, Data Visualization, Power Query, Dashboards)..
 - **Details**: [HR Data Analytics Dashboard](<AtliQ - HR Analytics>)
