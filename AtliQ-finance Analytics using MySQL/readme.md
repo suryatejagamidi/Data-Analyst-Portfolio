@@ -27,9 +27,4 @@ This project focuses on optimizing financial analytics for **AtliQ Hardware**, a
 📌 **Net Invoice Sales** – Incorporated **pre-invoice and post-invoice discounts** for precise revenue tracking.  
 📌 **Market-Based Sales Analysis** – Developed a **stored procedure** to fetch top-performing customers per market.
 
----
-## 🔗 Project Link for Main README
-To navigate to this detailed project, use the following link:
-
-### 📂 [SQL Project: Optimizing Financial Analytics](SQL-Financial-Analytics/README.md)
 
