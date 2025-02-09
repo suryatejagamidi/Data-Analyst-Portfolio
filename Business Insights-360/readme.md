@@ -10,6 +10,8 @@ The **Business Insights 360 Dashboard** is a Power BI solution designed to integ
 - Fetch and analyze data directly from a **MySQL database** for real-time updates and enhanced reporting.
 
 ## 📊 Dashboards Designed
+![Business Insights-360 Dashboard](data%20files/dashboard%20images/landing-page-image.png)
+
 
 ### **1️⃣ Finance Dashboard**
 **Purpose**: Analyze the company's financial health.
