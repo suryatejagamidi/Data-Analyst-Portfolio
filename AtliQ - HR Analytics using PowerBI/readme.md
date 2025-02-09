@@ -55,7 +55,7 @@ The dashboard leverages different attendance categories, including:
 - Supports data-driven decision-making regarding **attendance policies**.
 
 ## challenges:
-- merging data from different worksheet  into single excel workbook using Power BI. So I have solved this with the help of Google, The Art of googling is so importanat. Here is the reference below which helped me. [link](https://blog.crossjoin.co.uk/2018/07/09/power-bi-combine-multiple-excel-worksheets/)
+- merging data from different worksheet  into single excel workbook using Power BI. So I have solved this with the help of Google, the Art of googling is so importanat. Here is the reference below which helped me. [link](https://blog.crossjoin.co.uk/2018/07/09/power-bi-combine-multiple-excel-worksheets/)
 
 
 ## Future requirements
