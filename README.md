@@ -13,7 +13,7 @@ Each project includes detailed documentation, datasets, and code where applicabl
 ***[AdventureWorks Sales Performance Dashboard in Power BI](AdventureWorks-Sales-Dashboard/README.md)***  
 - **Description**: An interactive sales analytics project simulating the role of a BI Analyst at AdventureWorks. Built using Power BI to track KPIs, analyze customer segments, and uncover actionable business insights.  
 - **Tools**: Power BI Desktop (Power Query, DAX, Data Modeling, Dashboards, AI Visuals).  
-- **Details**: [AdventureWorks Dashboard Files](AdventureWorks-Sales-Dashboard/files)  
+- **Details**: [AdventureWorks Dashboard Files](AdventureWorks-Sales-Dashboard)  
 
 
 . ***[SQL Project: Optimizing Financial Analytics](<AtliQ-finance Analytics using MySQL/readme.md>)***
