@@ -1,6 +1,7 @@
 # 🏥 Maven Inspectional Services – Restaurant Health Dashboard
 
-![Maven Inspection Dashboard Preview](./images/maven-dashboard.png)
+![Maven Inspection Dashboard Preview](./Dashboard/dashboard_image.png)
+
 > ⚠️ *Disclaimer: The live Power BI dashboard link is not included as the Microsoft Fabric trial has expired. A new link will be added once the workspace is reactivated.*
 
 ---
