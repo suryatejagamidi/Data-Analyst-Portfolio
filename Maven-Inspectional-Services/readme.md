@@ -4,6 +4,8 @@
 
 > ⚠️ *Disclaimer: The live Power BI dashboard link is not included as the Microsoft Fabric trial has expired. A new link will be added once the workspace is reactivated.*
 
+> ⚠️ **Note**: While the dashboard may appear simple at first glance, the true value of this project lies in exploring **core enterprise-grade Power BI Service features**. It demonstrates the complete workflow using components like **Microsoft Fabric**, **data gateways**, **row-level security (RLS)**, **semantic models**, **scheduled refresh**, **alerts**, **mobile layouts**, and **DAX-driven KPIs**. The focus is not on visual complexity but on mastering essential service-level capabilities for scalable reporting solutions.
+
 ---
 
 ## 📘 Project Overview
