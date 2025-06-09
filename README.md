@@ -10,7 +10,7 @@ Each project includes detailed documentation, datasets, and code where applicabl
 - **Tools**: Excel (Power Query, Power Pivot Tables,DAX, Dashboards).
 - **Details**: [Excel Sales and Finance Analytics](Excel-Sales-and-Finance-Analytics/files)
 
-➤ ***[AdventureWorks Sales Performance Dashboard in Power BI](AdventureWorks-Sales-Dashboard/README.md)***  
+➤ ***[AdventureWorks Sales Performance Dashboard in Power BI](AdventureWorks-Sales-Dashboard/readme.md)***  
 - **Description**: An interactive sales analytics project simulating the role of a BI Analyst at AdventureWorks. Built using Power BI to track KPIs, analyze customer segments, and uncover actionable business insights.  
 - **Tools**: Power BI Desktop (Power Query, DAX, Data Modeling, Dashboards, AI Visuals).  
 - **Details**: [AdventureWorks Dashboard Files](AdventureWorks-Sales-Dashboard)  
