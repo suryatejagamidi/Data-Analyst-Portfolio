@@ -1,0 +1,1097 @@
+date,points,serial_number,violation_code,violation_description,violation_status
+2021-01-01,1,DAJ5UNMSF,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-01-02,4,DAT2HKIRE,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-01-03,1,DAT2HKIRE,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-01-04,1,DAT2HKIRE,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-01-05,1,DAQN0I8EA,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-01-06,2,DAQN0I8EA,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-01-07,1,DAQN0I8EA,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-01-08,2,DAQN0I8EA,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-01-09,1,DAQN0I8EA,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-01-10,1,DAQN0I8EA,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-01-11,1,DAQN0I8EA,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-01-12,1,DALVZ4JUV,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-01-13,2,DALVZ4JUV,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-01-14,1,DALVZ4JUV,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-01-15,2,DALVZ4JUV,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-01-16,1,DAXJXWTVO,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-01-17,1,DAXJXWTVO,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-01-18,1,DAXJXWTVO,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-01-19,1,DAXJXWTVO,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-01-20,1,DAXJXWTVO,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2021-01-21,4,DAXJXWTVO,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-01-22,1,DA7KZFE4Q,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-01-23,1,DA7KZFE4Q,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-01-24,1,DA7KZFE4Q,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-01-25,1,DA7KZFE4Q,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-01-26,1,DASN4EKRV,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-01-27,1,DASN4EKRV,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-01-28,1,DASN4EKRV,F048,# 47. Permits Available,OUT OF COMPLIANCE
+2021-01-29,1,DASN4EKRV,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2021-01-30,1,DASN4EKRV,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-01-31,2,DASN4EKRV,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-02-01,1,DASN4EKRV,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2021-02-02,1,DA0366375,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-02-03,1,DA0366375,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-02-04,2,DA0366375,F004,"# 04. Proper eating, drinking, or tobacco use",OUT OF COMPLIANCE
+2021-02-05,1,DAAXH8YPL,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-02-06,1,DADH070LE,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-02-07,2,DADH070LE,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-02-08,1,DADH070LE,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-02-09,2,DABFFK3CV,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-02-10,1,DABFFK3CV,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-02-11,1,DAXGQGT6F,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-02-12,1,DAXGQGT6F,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-02-13,1,DAXGQGT6F,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-02-14,1,DAXGQGT6F,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-02-15,1,DAXGQGT6F,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2021-02-16,1,DAXGQGT6F,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-02-17,1,DAXGQGT6F,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-02-18,1,DAD72GNEZ,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-02-19,1,DAD72GNEZ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-02-20,1,DAD72GNEZ,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-02-21,2,DAD72GNEZ,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-02-22,1,DAD72GNEZ,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-02-23,1,DAABW4F6F,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-02-24,1,DAABW4F6F,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-02-25,1,DA0364788,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-02-26,2,DA0364788,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-02-27,1,DA0364788,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-02-28,2,DA0364788,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2021-03-01,1,DA0364788,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-03-02,1,DA0364788,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-03-03,2,DAGOB1AH8,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-03-04,1,DAGOB1AH8,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-03-05,1,DAGOB1AH8,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-03-06,1,DAGOB1AH8,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-03-07,1,DAGOB1AH8,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-03-08,1,DAGOB1AH8,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-03-09,1,DAFYXH8TK,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2021-03-10,1,DASQFHV2F,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-03-11,1,DASQFHV2F,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-03-12,1,DA0364754,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-03-13,2,DA0364754,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-03-14,1,DA0364754,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2021-03-15,1,DA0364754,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-03-16,1,DA0364754,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-03-17,2,DAP00V03Q,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-03-18,1,DAP00V03Q,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2021-03-19,1,DAP00V03Q,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-03-20,1,DAP00V03Q,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-03-21,1,DAP00V03Q,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2021-03-22,1,DAP00V03Q,F048,# 47. Permits Available,OUT OF COMPLIANCE
+2021-03-23,2,DAP00V03Q,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-03-24,1,DAP00V03Q,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-03-25,1,DAOFD85XI,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-03-26,1,DAOFD85XI,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-03-27,1,DAOFD85XI,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-03-28,1,DAAVXLUJR,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-03-29,1,DAAVXLUJR,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-03-30,1,DAAVXLUJR,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-03-31,1,DAAVXLUJR,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-04-01,2,DAYJFH7TE,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-04-02,4,DAYJFH7TE,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-04-03,0,DAYJFH7TE,F049,# 50. Impoundment of unsanitary equipment or food,OUT OF COMPLIANCE
+2021-04-04,1,DAYJFH7TE,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-04-05,1,DAYJFH7TE,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-04-06,1,DAYJFH7TE,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-04-07,1,DAYJFH7TE,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-04-08,1,DAXWALU0T,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-04-09,1,DAXWALU0T,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-04-10,1,DAWRXI5A7,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2021-04-11,1,DAWRXI5A7,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-04-12,4,DAWRXI5A7,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-04-13,1,DAWRXI5A7,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2021-04-14,1,DAWRXI5A7,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-04-15,1,DAGFSVR03,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-04-16,1,DAGFSVR03,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-04-17,1,DAGFSVR03,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-04-18,1,DAGFSVR03,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-04-19,1,DAGFSVR03,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-04-20,1,DAZBXQSUI,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-04-21,1,DAL5J0I00,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-04-22,1,DAL5J0I00,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2021-04-23,2,DAL5J0I00,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-04-24,1,DAWT0NQO8,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-04-25,1,DAWT0NQO8,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-04-26,2,DAWT0NQO8,F009,# 09. Proper cooling methods,OUT OF COMPLIANCE
+2021-04-27,4,DAWT0NQO8,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-04-28,1,DAWT0NQO8,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-04-29,1,DAWT0NQO8,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-04-30,1,DAPH9V6SH,F048,# 47. Permits Available,OUT OF COMPLIANCE
+2021-05-01,1,DAPH9V6SH,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-05-02,2,DAPH9V6SH,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-05-03,4,DAPH9V6SH,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-05-04,2,DAPH9V6SH,F021,# 21b. Water available,OUT OF COMPLIANCE
+2021-05-05,1,DAPH9V6SH,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-05-06,2,DAPH9V6SH,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-05-07,1,DAPH9V6SH,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2021-05-08,1,DA3WGQELG,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-05-09,1,DA3WGQELG,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-05-10,1,DA3WGQELG,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-05-11,1,DA3WGQELG,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-05-12,1,DA3WGQELG,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-05-13,4,DAFK90BUN,F011,# 11. Proper reheating procedures for hot holding,OUT OF COMPLIANCE
+2021-05-14,1,DAFK90BUN,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-05-15,1,DAFK90BUN,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-05-16,1,DAFK90BUN,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-05-17,1,DASLKBP04,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-05-18,1,DASLKBP04,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-05-19,1,DASLKBP04,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2021-05-20,1,DASLKBP04,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-05-21,1,DASLKBP04,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2021-05-22,1,DASLKBP04,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-05-23,1,DARGNNBDM,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2021-05-24,1,DARGNNBDM,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-05-25,1,DARGNNBDM,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-05-26,1,DARGNNBDM,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2021-05-27,1,DARGNNBDM,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-05-28,1,DARGNNBDM,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-05-29,4,DARGNNBDM,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-05-30,1,DAZO06BR0,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-05-31,1,DAZO06BR0,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-06-01,1,DAB8DOEQT,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-06-02,1,DAB8DOEQT,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-06-03,1,DAB8DOEQT,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-06-04,1,DAB8DOEQT,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2021-06-05,2,DAB8DOEQT,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2021-06-06,1,DA9FB0CBR,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-06-07,2,DAN2HO1LN,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-06-08,4,DAN2HO1LN,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-06-09,1,DAN2HO1LN,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2021-06-10,1,DAN2HO1LN,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-06-11,1,DAWM70GZY,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-06-12,1,DAWM70GZY,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-06-13,1,DAWM70GZY,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-06-14,1,DAWM70GZY,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-06-15,4,DAWM70GZY,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-06-16,2,DAEANGSRF,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2021-06-17,2,DAEANGSRF,F009,# 09. Proper cooling methods,OUT OF COMPLIANCE
+2021-06-18,1,DAEANGSRF,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-06-19,1,DAEANGSRF,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-06-20,1,DAEANGSRF,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-06-21,1,DAEANGSRF,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-06-22,1,DAEANGSRF,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-06-23,1,DA2ZYY8S4,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-06-24,1,DA2ZYY8S4,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2021-06-25,1,DAXXGXLB2,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-06-26,2,DAXXGXLB2,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-06-27,1,DAXXGXLB2,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-06-28,1,DASK7KIKW,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-06-29,1,DASK7KIKW,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-06-30,2,DAIJIPC7R,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2021-07-01,2,DAIJIPC7R,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-07-02,1,DAIJIPC7R,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-07-03,1,DAIJIPC7R,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-07-04,1,DAIJIPC7R,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2021-07-05,1,DAIJIPC7R,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-07-06,1,DAIJIPC7R,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-07-07,1,DAXUOUCVG,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-07-08,1,DAXUOUCVG,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2021-07-09,1,DAXUOUCVG,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2021-07-10,2,DAAGGZ0S0,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-07-11,1,DAAGGZ0S0,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2021-07-12,1,DAAGGZ0S0,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-07-13,2,DAAGGZ0S0,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2021-07-14,1,DAAGGZ0S0,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-07-15,1,DAAGGZ0S0,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-07-16,2,DAAGGZ0S0,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2021-07-17,1,DAIV4Q8QX,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-07-18,2,DAIV4Q8QX,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-07-19,1,DAF0T09SI,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2021-07-20,4,DAF0T09SI,F021,# 21b. Water available,OUT OF COMPLIANCE
+2021-07-21,4,DAF0T09SI,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2021-07-22,1,DAF0T09SI,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-07-23,2,DAF0T09SI,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2021-07-24,1,DAF0T09SI,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-07-25,2,DAF0T09SI,F013,"# 13. Food in good condition, safe and unadulterated",OUT OF COMPLIANCE
+2021-07-26,1,DAF0T09SI,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-07-27,1,DAF0T09SI,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-07-28,0,DAF0T09SI,F050,# 51. Permit Suspension,OUT OF COMPLIANCE
+2021-07-29,2,DAG9KKCQZ,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2021-07-30,1,DAG9KKCQZ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-07-31,4,DAG9KKCQZ,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-08-01,1,DAG9KKCQZ,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-08-02,1,DA0SMOOE3,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-08-03,1,DA0SMOOE3,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-08-04,1,DA0SMOOE3,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-08-05,4,DA0SMOOE3,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-08-06,1,DA0SMOOE3,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-08-07,1,DA0SMOOE3,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-08-08,1,DANDORFX9,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-08-09,2,DANDORFX9,F001,# 01a. Demonstration of knowledge,OUT OF COMPLIANCE
+2021-08-10,1,DANDORFX9,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-08-11,1,DANDORFX9,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2021-08-12,1,DANDORFX9,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-08-13,1,DAAYU8ARR,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-08-14,1,DAUFE97MF,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-08-15,1,DAUFE97MF,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-08-16,4,DAUFE97MF,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2021-08-17,4,DAH1XSRL6,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-08-18,2,DAH1XSRL6,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2021-08-19,1,DAH1XSRL6,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-08-20,4,DAH1XSRL6,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-08-21,1,DAH1XSRL6,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2021-08-22,1,DAH1XSRL6,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-08-23,1,DAH1XSRL6,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-08-24,1,DAH1XSRL6,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2021-08-25,2,DAH1XSRL6,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-08-26,1,DAH1XSRL6,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-08-27,1,DAH1XSRL6,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-08-28,1,DAH1XSRL6,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-08-29,2,DAFOCBEES,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-08-30,2,DAFOCBEES,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-08-31,1,DAFOCBEES,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-09-01,1,DAFOCBEES,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-09-02,2,DAFOCBEES,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-09-03,1,DACTLMTCZ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-09-04,1,DACTLMTCZ,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-09-05,1,DACTLMTCZ,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2021-09-06,1,DAIZXWEYA,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-09-07,1,DAIZXWEYA,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-09-08,1,DAIZXWEYA,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-09-09,1,DAIZXWEYA,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-09-10,4,DAIZXWEYA,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-09-11,0,DAIZXWEYA,F049,# 50. Impoundment of unsanitary equipment or food,OUT OF COMPLIANCE
+2021-09-12,1,DATP1AWP7,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-09-13,1,DATP1AWP7,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-09-14,1,DATP1AWP7,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2021-09-15,1,DATP1AWP7,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-09-16,1,DAOXCAPDU,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-09-17,1,DAOXCAPDU,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-09-18,1,DAOXCAPDU,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-09-19,1,DAOXCAPDU,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-09-20,1,DAGFZT0MG,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-09-21,1,DAGFZT0MG,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-09-22,1,DAGFZT0MG,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-09-23,2,DAGFZT0MG,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-09-24,1,DAGFZT0MG,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-09-25,1,DA41ITTXA,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2021-09-26,1,DA41ITTXA,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-09-27,1,DA41ITTXA,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-09-28,1,DA41ITTXA,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-09-29,2,DA41ITTXA,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-09-30,1,DA41ITTXA,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-10-01,1,DA41ITTXA,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-10-02,1,DAJWSVZSM,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-10-03,1,DA04E02LR,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2021-10-04,1,DA04E02LR,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-10-05,2,DA04E02LR,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2021-10-06,1,DA04E02LR,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-10-07,1,DA04E02LR,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-10-08,1,DA04E02LR,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-10-09,1,DA04E02LR,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-10-10,1,DA66KJONV,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-10-11,1,DA66KJONV,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-10-12,1,DA66KJONV,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-10-13,2,DA66KJONV,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-10-14,1,DA66KJONV,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-10-15,1,DAGIV93TU,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-10-16,1,DAGIV93TU,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-10-17,1,DAGIV93TU,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-10-18,4,DAGIV93TU,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-10-19,1,DAGIV93TU,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-10-20,2,DAGIV93TU,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2021-10-21,1,DAD5DQHKQ,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-10-22,1,DAD5DQHKQ,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-10-23,1,DAD5DQHKQ,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-10-24,4,DAD5DQHKQ,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-10-25,4,DAQ60UMR9,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-10-26,1,DAQ60UMR9,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-10-27,1,DAQ60UMR9,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-10-28,1,DAQ60UMR9,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-10-29,1,DAQ60UMR9,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-10-30,1,DAIOPNJI0,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-10-31,1,DAIOPNJI0,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2021-11-01,2,DAIOPNJI0,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-11-02,2,DAIOPNJI0,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2021-11-03,1,DAPISJLMG,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-11-04,1,DAPISJLMG,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-11-05,1,DAPISJLMG,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-11-06,1,DAPISJLMG,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-11-07,2,DAPISJLMG,F001,# 01a. Demonstration of knowledge,OUT OF COMPLIANCE
+2021-11-08,1,DAVXJOWG3,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-11-09,1,DAVXJOWG3,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-11-10,1,DAVXJOWG3,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-11-11,1,DAM0HDPEQ,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-11-12,1,DAM0HDPEQ,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-11-13,1,DAM0HDPEQ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-11-14,1,DAM0HDPEQ,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-11-15,1,DAPGPWH01,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2021-11-16,1,DAPGPWH01,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-11-17,1,DAPGPWH01,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-11-18,1,DAPGPWH01,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-11-19,1,DAMDXZ0AI,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2021-11-20,1,DAMDXZ0AI,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-11-21,1,DAMDXZ0AI,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-11-22,1,DAMDXZ0AI,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-11-23,4,DAJOHUJWR,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2021-11-24,4,DAJOHUJWR,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-11-25,1,DAJOHUJWR,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-11-26,1,DAJOHUJWR,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-11-27,1,DA5O2R7YX,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-11-28,2,DA5O2R7YX,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-11-29,1,DA5O2R7YX,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-11-30,1,DAIFMX5ZR,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-12-01,1,DAIFMX5ZR,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-12-02,1,DAIFMX5ZR,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-12-03,1,DAIFMX5ZR,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2021-12-04,1,DAHEIE0W3,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-12-05,1,DAHEIE0W3,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-12-06,1,DAHEIE0W3,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-12-07,1,DAHEIE0W3,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2021-12-08,2,DABN6MAZ5,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2021-12-09,0,DABN6MAZ5,F049,# 50. Impoundment of unsanitary equipment or food,OUT OF COMPLIANCE
+2021-12-10,1,DABN6MAZ5,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-12-11,4,DABN6MAZ5,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-12-12,1,DABN6MAZ5,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-12-13,1,DABN6MAZ5,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-12-14,1,DABN6MAZ5,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-12-15,2,DA3HKC49D,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-12-16,1,DA3HKC49D,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-12-17,4,DA3HKC49D,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2021-12-18,1,DA3HKC49D,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-12-19,1,DA3HKC49D,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2021-12-20,1,DA3HKC49D,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2021-12-21,1,DAHRBAPUW,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2021-12-22,1,DAHRBAPUW,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2021-12-23,1,DAHRBAPUW,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2021-12-24,1,DAHRBAPUW,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2021-12-25,0,DAHRBAPUW,F049,# 50. Impoundment of unsanitary equipment or food,OUT OF COMPLIANCE
+2021-12-26,1,DAHRBAPUW,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2021-12-27,1,DAHRBAPUW,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2021-12-28,2,DAHRBAPUW,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2021-12-29,2,DAHRBAPUW,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2021-12-30,2,DA1SRO0X8,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2021-12-31,1,DA1SRO0X8,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-01-01,2,DA1SRO0X8,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-01-02,1,DA1SRO0X8,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-01-03,1,DA1SRO0X8,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-01-04,1,DAYDBT0FT,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-01-05,1,DAYDBT0FT,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-01-06,1,DAYDBT0FT,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-01-07,1,DAYDBT0FT,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-01-08,1,DAYDBT0FT,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-01-09,2,DAYDBT0FT,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-01-10,1,DAQS2A2XO,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-01-11,1,DAQS2A2XO,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-01-12,1,DAQS2A2XO,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-01-13,2,DAQS2A2XO,F021,# 21b. Water available,OUT OF COMPLIANCE
+2022-01-14,1,DAQS2A2XO,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-01-15,1,DAKW8AVRN,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-01-16,1,DAKW8AVRN,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-01-17,2,DAKW8AVRN,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-01-18,1,DAKW8AVRN,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-01-19,1,DAX0GASP3,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-01-20,2,DAX0GASP3,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-01-21,1,DAX0GASP3,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2022-01-22,2,DAD0JJ0ED,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-01-23,1,DAD0JJ0ED,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-01-24,2,DAUQQ8RRV,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-01-25,2,DAK7IDRMX,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-01-26,1,DAK7IDRMX,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-01-27,1,DAGNDPGEB,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2022-01-28,2,DAGNDPGEB,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2022-01-29,1,DAGNDPGEB,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-01-30,1,DA1MNCXYC,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-01-31,4,DA1MNCXYC,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2022-02-01,1,DA1MNCXYC,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-02-02,1,DAM9XHJ5U,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-02-03,1,DAM9XHJ5U,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-02-04,1,DAM9XHJ5U,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-02-05,1,DAM9XHJ5U,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-02-06,1,DAM9XHJ5U,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-02-07,1,DACRY0I2O,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-02-08,1,DACRY0I2O,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-02-09,2,DACRY0I2O,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-02-10,1,DAYNXPYKQ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-02-11,1,DA58VMU20,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2022-02-12,1,DA58VMU20,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-02-13,2,DAWXZBC2S,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-02-14,1,DAWXZBC2S,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-02-15,1,DAWXZBC2S,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2022-02-16,1,DAWXZBC2S,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-02-17,1,DAWXZBC2S,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-02-18,1,DAWXZBC2S,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-02-19,1,DAWXZBC2S,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-02-20,1,DAK7SGEXT,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-02-21,1,DAK7SGEXT,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2022-02-22,2,DAK7SGEXT,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-02-23,1,DAPEFEAIK,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-02-24,1,DAPEFEAIK,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-02-25,1,DAPEFEAIK,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-02-26,4,DAPEFEAIK,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-02-27,1,DAPEFEAIK,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-02-28,1,DAPEFEAIK,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2022-02-28,1,DAPEFEAIK,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-03-01,1,DA230MDSN,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-03-02,4,DA230MDSN,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-03-03,4,DA230MDSN,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2022-03-04,1,DAZQ2WMXZ,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-03-05,4,DAZQ2WMXZ,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-03-06,1,DAT96BAR3,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-03-07,1,DAT96BAR3,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-03-08,1,DAT96BAR3,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-03-09,1,DAT96BAR3,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-03-10,1,DAT96BAR3,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-03-11,4,DAT96BAR3,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-03-12,1,DAT96BAR3,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-03-13,1,DANHTHYUP,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-03-14,2,DANHTHYUP,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-03-15,1,DANHTHYUP,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-03-16,1,DANHTHYUP,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-03-17,1,DANHTHYUP,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-03-18,1,DANHTHYUP,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2022-03-19,1,DANHTHYUP,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-03-20,1,DA20XY5PX,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-03-21,1,DA20XY5PX,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-03-22,1,DA20XY5PX,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2022-03-23,1,DA20XY5PX,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-03-24,1,DA20XY5PX,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-03-25,4,DAJTROS10,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-03-26,1,DAJTROS10,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2022-03-27,1,DAJTROS10,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2022-03-28,2,DAJTROS10,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-03-29,1,DAJTROS10,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-03-30,1,DAJTROS10,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-03-31,1,DAYWNHHPK,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-04-01,1,DAYWNHHPK,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-04-02,1,DAFJJJVC8,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2022-04-03,1,DAFJJJVC8,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-04-04,1,DAFJJJVC8,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2022-04-05,2,DAFJJJVC8,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-04-06,1,DAFJJJVC8,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-04-07,4,DAXXU4L6I,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-04-08,2,DAXXU4L6I,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-04-09,2,DAXXU4L6I,F001,# 01a. Demonstration of knowledge,OUT OF COMPLIANCE
+2022-04-10,4,DANW7GGIT,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-04-11,1,DANW7GGIT,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-04-12,1,DANW7GGIT,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2022-04-13,1,DANW7GGIT,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-04-14,2,DANW7GGIT,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-04-15,1,DANW7GGIT,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-04-16,1,DAVHJCXRU,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-04-17,1,DAVHJCXRU,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-04-18,2,DAVHJCXRU,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-04-19,1,DAVHJCXRU,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-04-20,1,DAVHJCXRU,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-04-21,1,DALV8X7VC,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-04-22,1,DALV8X7VC,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-04-23,1,DALV8X7VC,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-04-24,1,DALV8X7VC,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-04-25,1,DALV8X7VC,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-04-26,1,DALV8X7VC,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-04-27,1,DA0EUDHJY,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2022-04-28,2,DA0EUDHJY,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-04-29,1,DA0EUDHJY,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-04-30,1,DA0EUDHJY,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-05-01,1,DA0EUDHJY,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-05-02,1,DAW0ZLIMY,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-05-03,1,DAW0ZLIMY,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2022-05-04,4,DAW0ZLIMY,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-05-05,1,DADLXIVT1,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-05-06,1,DADLXIVT1,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-05-07,4,DADLXIVT1,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-05-08,1,DA9RQFFDT,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-05-09,1,DA9RQFFDT,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-05-10,4,DA9RQFFDT,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-05-11,1,DA9RQFFDT,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2022-05-12,1,DA9RQFFDT,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-05-13,1,DA9RQFFDT,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-05-14,1,DAAFPBTBM,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-05-15,4,DAAFPBTBM,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-05-16,1,DAAFPBTBM,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-05-17,2,DAAFPBTBM,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-05-18,2,DA0366335,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-05-19,1,DA0366335,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-05-20,1,DA0366335,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-05-21,4,DAQOPD70I,F009,# 09. Proper cooling methods,OUT OF COMPLIANCE
+2022-05-22,4,DAQOPD70I,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2022-05-23,1,DAQOPD70I,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-05-24,1,DAQOPD70I,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-05-25,1,DAK3OXPB7,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-05-26,1,DAK3OXPB7,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-05-27,1,DAK3OXPB7,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-05-28,1,DAK3OXPB7,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-05-29,2,DAK3OXPB7,F004,"# 04. Proper eating, drinking, or tobacco use",OUT OF COMPLIANCE
+2022-05-30,2,DAK3OXPB7,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-05-31,1,DAK3OXPB7,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-06-01,1,DA0364641,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-06-02,1,DA0364641,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-06-03,1,DA0364641,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-06-04,1,DA0364641,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-06-05,1,DA0364641,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-06-06,1,DA0364641,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-06-07,1,DA0364641,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-06-08,1,DAKTHSPPP,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-06-09,1,DAKTHSPPP,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-06-10,1,DAKTHSPPP,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-06-11,1,DAKTHSPPP,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-06-12,1,DAKTHSPPP,F048,# 47. Permits Available,OUT OF COMPLIANCE
+2022-06-13,1,DAPZXXCWI,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-06-14,1,DAPZXXCWI,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-06-15,1,DAPZXXCWI,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-06-16,1,DAPZXXCWI,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-06-17,1,DAPZXXCWI,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-06-18,2,DAPZXXCWI,F001,# 01a. Demonstration of knowledge,OUT OF COMPLIANCE
+2022-06-19,2,DAPZXXCWI,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-06-20,1,DA4V1I2B1,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2022-06-21,1,DA4V1I2B1,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-06-22,1,DA4V1I2B1,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2022-06-23,1,DA4V1I2B1,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-06-24,2,DA4V1I2B1,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-06-25,1,DA4V1I2B1,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-06-26,2,DA4V1I2B1,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-06-27,2,DAI5RIDIC,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-06-28,2,DAI5RIDIC,F021,# 21b. Water available,OUT OF COMPLIANCE
+2022-06-29,1,DAI5RIDIC,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-06-30,2,DAI5RIDIC,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-07-01,1,DAI5RIDIC,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2022-07-02,1,DAI5RIDIC,F045,# 45. Sleeping quarters,OUT OF COMPLIANCE
+2022-07-03,1,DAI5RIDIC,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2022-07-04,1,DAI5RIDIC,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-07-05,1,DAI5RIDIC,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-07-06,1,DAI5RIDIC,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-07-07,1,DA1K9J9AJ,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-07-08,1,DA1K9J9AJ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-07-09,2,DA1K9J9AJ,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-07-10,1,DA1K9J9AJ,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-07-11,1,DA1K9J9AJ,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-07-12,1,DA1K9J9AJ,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2022-07-13,1,DA1K9J9AJ,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-07-14,1,DA1K9J9AJ,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2022-07-15,1,DA1K9J9AJ,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2022-07-16,1,DA1TKXG27,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-07-17,1,DA1TKXG27,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2022-07-18,1,DA1TKXG27,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-07-19,1,DA1TKXG27,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-07-20,1,DA1TKXG27,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-07-21,1,DA1TKXG27,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-07-22,2,DA1TKXG27,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-07-23,1,DA1TKXG27,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-07-24,1,DAEIKZIDK,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-07-25,1,DAEIKZIDK,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-07-26,1,DAEIKZIDK,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2022-07-27,1,DAEIKZIDK,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-07-28,1,DAEIKZIDK,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-07-29,1,DAFDQCKYE,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-07-30,1,DAFDQCKYE,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-07-31,1,DAFDQCKYE,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-08-01,1,DAFDQCKYE,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-08-02,1,DAFDQCKYE,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-08-03,1,DAFDQCKYE,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-08-04,1,DAQJ14KVI,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-08-05,1,DAQJ14KVI,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-08-06,1,DAQJ14KVI,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-08-07,1,DAQJ14KVI,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-08-08,2,DATBE070G,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2022-08-09,1,DATBE070G,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-08-10,1,DATBE070G,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-08-11,1,DATBE070G,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-08-12,2,DATBE070G,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-08-13,1,DATBE070G,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-08-14,1,DAYBRQKGL,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-08-15,1,DAYBRQKGL,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-08-16,1,DAYBRQKGL,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-08-17,1,DAYBRQKGL,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-08-18,1,DAYBRQKGL,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2022-08-19,2,DAYBRQKGL,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-08-20,4,DA7RVGU7A,F009,# 09. Proper cooling methods,OUT OF COMPLIANCE
+2022-08-21,1,DA7RVGU7A,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-08-22,1,DA7RVGU7A,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-08-23,1,DA7RVGU7A,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-08-24,1,DAP4GWHLU,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-08-25,1,DAP4GWHLU,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-08-26,1,DAP4GWHLU,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-08-27,2,DAP4GWHLU,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-08-28,1,DAP4GWHLU,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-08-29,4,DAP4GWHLU,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-08-30,2,DAYR9GLUY,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-08-31,4,DAYR9GLUY,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-09-01,2,DAYR9GLUY,F009,# 09. Proper cooling methods,OUT OF COMPLIANCE
+2022-09-02,1,DAYR9GLUY,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2022-09-03,1,DAYR9GLUY,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-09-04,2,DATMMPXEN,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-09-05,2,DATMMPXEN,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-09-06,1,DATMMPXEN,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-09-07,1,DATMMPXEN,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2022-09-08,1,DATMMPXEN,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-09-09,1,DAL25W2BL,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-09-10,1,DAL25W2BL,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-09-11,1,DAL25W2BL,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-09-12,1,DAL25W2BL,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-09-13,2,DAL25W2BL,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2022-09-14,1,DAL25W2BL,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-09-15,1,DAL25W2BL,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-09-16,1,DA5XRCYRJ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-09-17,1,DA5XRCYRJ,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-09-18,2,DA5XRCYRJ,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-09-19,1,DAWF04KBO,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2022-09-20,1,DAWF04KBO,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2022-09-21,1,DAWF04KBO,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-09-22,1,DAWF04KBO,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2022-09-23,1,DAWF04KBO,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-09-24,2,DAWF04KBO,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-09-25,1,DATODHE94,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-09-26,1,DAWF04KBO,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-09-27,1,DAFA5O0PD,F048,# 47. Permits Available,OUT OF COMPLIANCE
+2022-09-28,1,DAFA5O0PD,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-09-29,4,DAFA5O0PD,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-09-30,1,DAFA5O0PD,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-10-01,1,DAFA5O0PD,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-10-02,1,DAFA5O0PD,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2022-10-03,1,DAFA5O0PD,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-10-04,1,DAFA5O0PD,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2022-10-05,1,DAFA5O0PD,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-10-06,1,DAFA5O0PD,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-10-07,1,DAFA5O0PD,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-10-08,1,DAV6EZN8Q,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-10-09,1,DAV6EZN8Q,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-10-10,1,DAV6EZN8Q,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-10-11,1,DAV6EZN8Q,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-10-12,1,DAV6EZN8Q,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2022-10-13,1,DALUQQZHP,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-10-14,1,DALUQQZHP,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-10-15,1,DALUQQZHP,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-10-16,4,DA009YHXE,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-10-17,1,DA009YHXE,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-10-18,1,DA009YHXE,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-10-19,1,DA009YHXE,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-10-20,1,DA7MUXE6B,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-10-21,1,DANJFTPVI,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-10-22,2,DANJFTPVI,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-10-23,2,DANJFTPVI,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-10-24,1,DANJFTPVI,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-10-25,1,DANJFTPVI,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-10-26,1,DANJFTPVI,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-10-27,1,DANJFTPVI,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-10-28,1,DAZ5INCVP,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-10-29,2,DAZ5INCVP,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-10-30,1,DAZ5INCVP,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-10-31,1,DAZ5INCVP,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-11-01,1,DAZ5INCVP,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-11-02,1,DA0365621,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-11-03,1,DA0365621,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-11-04,1,DAGEIBQUK,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-11-05,1,DAGEIBQUK,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-11-06,1,DAGEIBQUK,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-11-07,1,DAGEIBQUK,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-11-08,4,DALVXJG0C,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-11-09,1,DALVXJG0C,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-11-10,4,DALVXJG0C,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2022-11-11,1,DALVXJG0C,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-11-12,1,DAVAOQKKS,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-11-13,1,DAVAOQKKS,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-11-14,1,DAVAOQKKS,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2022-11-15,1,DAVAOQKKS,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-11-16,1,DAVAOQKKS,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-11-17,1,DAWUPLV7S,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-11-18,1,DAWUPLV7S,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-11-19,1,DAWUPLV7S,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-11-20,1,DAWUPLV7S,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-11-21,1,DAWUPLV7S,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2022-11-22,2,DANO9904H,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-11-23,1,DANO9904H,F024,# 24. Person in charge present and performs duties,OUT OF COMPLIANCE
+2022-11-24,1,DANO9904H,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-11-25,1,DANO9904H,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2022-11-26,1,DANO9904H,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-11-27,1,DANO9904H,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2022-11-28,2,DANO9904H,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2022-11-29,1,DAZH90XBL,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2022-11-30,1,DAZH90XBL,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-12-01,4,DA2LGN6SY,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-12-02,1,DA2LGN6SY,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2022-12-03,2,DA2LGN6SY,F001,# 01a. Demonstration of knowledge,OUT OF COMPLIANCE
+2022-12-04,2,DA2LGN6SY,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-12-05,1,DA2LGN6SY,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-12-06,1,DA2LGN6SY,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-12-07,4,DA2LGN6SY,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2022-12-08,1,DA2LGN6SY,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2022-12-09,1,DACL54G17,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-12-10,1,DACL54G17,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2022-12-11,1,DACL54G17,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-12-12,2,DACL54G17,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2022-12-13,1,DACL54G17,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-12-14,2,DACL54G17,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2022-12-15,1,DALCNTFWW,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-12-16,1,DALCNTFWW,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-12-17,1,DALCNTFWW,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-12-18,4,DALCNTFWW,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-12-19,1,DALCNTFWW,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-12-20,1,DA0WXI2IU,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2022-12-21,1,DA0WXI2IU,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2022-12-22,1,DA0WXI2IU,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2022-12-23,2,DA0WXI2IU,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2022-12-24,1,DAPADXAJV,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2022-12-25,1,DAPADXAJV,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2022-12-26,1,DAR48QJUE,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2022-12-27,1,DAR48QJUE,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2022-12-28,1,DAR48QJUE,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2022-12-29,1,DAR48QJUE,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2022-12-30,1,DAR48QJUE,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2022-12-31,1,DAGRZMSVC,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-01-01,1,DAGRZMSVC,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-01-02,1,DAGRZMSVC,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-01-03,1,DAGRZMSVC,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2023-01-04,1,DAGRZMSVC,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-01-05,2,DAGRZMSVC,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2023-01-06,1,DAGRZMSVC,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-01-07,1,DAGRZMSVC,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-01-08,1,DAGRZMSVC,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-01-09,4,DAAZKDQ0O,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-01-10,1,DAAZKDQ0O,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-01-11,1,DAAZKDQ0O,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-01-12,2,DAAZKDQ0O,F021,# 21b. Water available,OUT OF COMPLIANCE
+2023-01-13,1,DAAZKDQ0O,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-01-14,4,DATODHE94,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-01-15,2,DATODHE94,F013,"# 13. Food in good condition, safe and unadulterated",OUT OF COMPLIANCE
+2023-01-16,1,DATODHE94,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-01-17,1,DATODHE94,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-01-18,1,DATODHE94,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-01-19,1,DATODHE94,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-01-20,0,DATODHE94,F050,# 51. Permit Suspension,OUT OF COMPLIANCE
+2023-01-21,1,DATODHE94,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-01-22,1,DATODHE94,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2023-01-23,1,DATODHE94,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-01-24,2,DATODHE94,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-01-25,2,DADSXA9VP,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-01-26,1,DADSXA9VP,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2023-01-27,1,DADSXA9VP,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-01-28,2,DA7DT6WQT,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2023-01-29,1,DA7DT6WQT,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-01-30,1,DA7DT6WQT,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-01-31,1,DA7DT6WQT,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-02-01,2,DA7DT6WQT,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-02-02,1,DAMSCR09A,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-02-03,1,DAMSCR09A,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-02-04,1,DAMSCR09A,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-02-05,1,DAMSCR09A,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-02-06,1,DAMSCR09A,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-02-07,2,DASRPBT6I,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-02-08,1,DASRPBT6I,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-02-09,1,DASRPBT6I,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-02-10,1,DASRPBT6I,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-02-11,1,DA0E3FOEH,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-02-12,1,DA0E3FOEH,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-02-13,1,DA0E3FOEH,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-02-14,1,DA0E3FOEH,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-02-15,2,DA0E3FOEH,F009,# 09. Proper cooling methods,OUT OF COMPLIANCE
+2023-02-16,4,DA0E3FOEH,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-02-17,2,DA0E3FOEH,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-02-18,2,DA0E3FOEH,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-02-19,1,DA0E3FOEH,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-02-20,1,DA0E3FOEH,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-02-21,0,DACWU4MXS,F049,# 50. Impoundment of unsanitary equipment or food,OUT OF COMPLIANCE
+2023-02-22,4,DACWU4MXS,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-02-23,1,DACWU4MXS,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-02-24,1,DACWU4MXS,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2023-02-25,2,DACWU4MXS,F021,# 21b. Water available,OUT OF COMPLIANCE
+2023-02-26,1,DACWU4MXS,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-02-27,1,DACWU4MXS,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-02-28,2,DACOAGH0Q,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-03-01,1,DACOAGH0Q,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-03-02,1,DACOAGH0Q,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-03-03,1,DACOAGH0Q,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-03-04,1,DALXF7P9S,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-03-05,1,DALXF7P9S,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2023-03-06,1,DALXF7P9S,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-03-07,1,DA0HPJE0D,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-03-08,1,DA0HPJE0D,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-03-09,2,DA0HPJE0D,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-03-10,1,DA0HPJE0D,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-03-11,2,DA0HPJE0D,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-03-12,1,DA0HPJE0D,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2023-03-13,2,DA0HPJE0D,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-03-14,1,DAC9IERL0,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-03-15,1,DAKBOVJXA,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-03-16,1,DAKBOVJXA,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-03-17,4,DAKBOVJXA,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-03-18,1,DAKBOVJXA,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-03-19,1,DAAU4Y5TQ,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2023-03-20,1,DAAU4Y5TQ,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-03-21,1,DAAU4Y5TQ,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-03-22,2,DAAU4Y5TQ,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-03-23,1,DAAU4Y5TQ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-03-24,1,DAAU4Y5TQ,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-03-25,1,DAHPD9SIP,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-03-26,2,DAHPD9SIP,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-03-27,1,DAHPD9SIP,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-03-28,1,DAHPD9SIP,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-03-29,1,DAHPD9SIP,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-03-30,4,DAHPD9SIP,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-03-31,4,DAUJF4SZ1,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-04-01,1,DAUJF4SZ1,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-04-02,1,DAUJF4SZ1,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-04-03,1,DAUJF4SZ1,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-04-04,1,DAUJF4SZ1,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-04-05,1,DAUJF4SZ1,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-04-06,1,DAUJF4SZ1,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-04-07,4,DAUJF4SZ1,F021,# 21b. Water available,OUT OF COMPLIANCE
+2023-04-08,1,DAUJF4SZ1,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-04-09,1,DAUJF4SZ1,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-04-10,4,DAUJF4SZ1,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-04-11,1,DAE03UXMC,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-04-12,1,DAE03UXMC,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-04-13,2,DAJY3QITO,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-04-14,1,DAJY3QITO,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2023-04-15,1,DAKHDNKYS,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-04-16,2,DAKHDNKYS,F022,# 22. Sewage and wastewater properly disposed,OUT OF COMPLIANCE
+2023-04-17,1,DA5PLJ3HF,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-04-18,1,DA5PLJ3HF,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-04-19,2,DA5PLJ3HF,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-04-20,1,DA5PLJ3HF,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-04-21,1,DA5PLJ3HF,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2023-04-22,1,DA5PLJ3HF,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-04-23,1,DA1WLMC4E,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-04-24,1,DA1WLMC4E,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-04-25,1,DA1WLMC4E,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-04-26,1,DAELSVKCO,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-04-27,1,DAELSVKCO,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-04-28,1,DAELSVKCO,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-04-29,1,DAELSVKCO,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2023-04-30,1,DAEE4RQRA,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-05-01,1,DAEE4RQRA,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-05-02,1,DAQDTLDWG,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2023-05-03,1,DAQDTLDWG,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-05-04,2,DAQDTLDWG,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2023-05-05,1,DAKDVJO1R,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-05-06,1,DAKDVJO1R,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-05-07,2,DAKDVJO1R,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-05-08,1,DAKDVJO1R,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-05-09,4,DA8YV0DP0,F008,# 08. Time as a public health control; procedures & records,OUT OF COMPLIANCE
+2023-05-10,1,DAQ03KFUX,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-05-11,1,DAQ03KFUX,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-05-12,1,DAQ03KFUX,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-05-13,1,DAQ03KFUX,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-05-14,1,DAN8YGDSV,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-05-15,1,DAN8YGDSV,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-05-16,1,DAN8YGDSV,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2023-05-17,1,DAN8YGDSV,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-05-18,1,DA5LGCKUJ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-05-19,4,DA5LGCKUJ,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-05-20,1,DA5LGCKUJ,F027,# 27. Food separated and protected,OUT OF COMPLIANCE
+2023-05-21,2,DA5LGCKUJ,F009,# 09. Proper cooling methods,OUT OF COMPLIANCE
+2023-05-22,1,DA5LGCKUJ,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-05-23,1,DA5LGCKUJ,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-05-24,1,DAW4EWVCT,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-05-25,1,DAW4EWVCT,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-05-26,1,DAW4EWVCT,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2023-05-27,2,DAW4EWVCT,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-05-28,1,DAW4EWVCT,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2023-05-29,1,DAGZ0D4PM,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2023-05-30,1,DAGZ0D4PM,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-05-31,1,DAGZ0D4PM,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-06-01,1,DAGZ0D4PM,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-06-02,2,DAGZ0D4PM,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-06-03,1,DAGZ0D4PM,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-06-04,1,DALOJEOO1,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-06-05,2,DALOJEOO1,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-06-06,2,DALOJEOO1,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2023-06-07,4,DALOJEOO1,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-06-08,1,DALOJEOO1,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-06-09,1,DADN50TDA,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-06-10,1,DADN50TDA,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2023-06-11,2,DADN50TDA,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-06-12,1,DADN50TDA,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2023-06-13,1,DADN50TDA,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-06-14,1,DADN50TDA,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-06-15,1,DA1RE6NJP,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-06-16,1,DADN50TDA,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-06-17,2,DADN50TDA,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-06-18,1,DADN50TDA,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-06-19,1,DADN50TDA,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-06-20,1,DADN50TDA,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-06-21,4,DADN50TDA,F008,# 08. Time as a public health control; procedures & records,OUT OF COMPLIANCE
+2023-06-22,1,DADN50TDA,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-06-23,2,DADN50TDA,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-06-24,1,DADREZMX6,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2023-06-25,2,DADREZMX6,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-06-26,1,DADREZMX6,F031,# 31. Consumer self service facilities properly constructed and maintained,OUT OF COMPLIANCE
+2023-06-27,1,DAWVD4MKX,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-06-28,1,DAWVD4MKX,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2023-06-29,1,DAWVD4MKX,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-06-30,1,DAWVD4MKX,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-07-01,1,DAWVD4MKX,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-07-02,1,DAWVD4MKX,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2023-07-03,1,DAWVD4MKX,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-07-04,1,DA0BMGYZE,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-07-05,1,DA0BMGYZE,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-07-06,2,DA0BMGYZE,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-07-07,1,DA0BMGYZE,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-07-08,1,DA0BMGYZE,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-07-09,1,DAAC0QOT0,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-07-10,1,DAAC0QOT0,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-07-11,1,DAAC0QOT0,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-07-12,1,DAYG5MRTL,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-07-13,1,DAYG5MRTL,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-07-14,4,DAYG5MRTL,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-07-15,1,DAYG5MRTL,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-07-16,1,DAYG5MRTL,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-07-17,1,DADLSHEGJ,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-07-18,1,DADLSHEGJ,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-07-19,2,DA1RE6NJP,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-07-20,1,DA1RE6NJP,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-07-21,1,DA1RE6NJP,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-07-22,1,DA1RE6NJP,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2023-07-23,2,DA1RE6NJP,F005,# 05. Hands clean and properly washed; gloves used properly,OUT OF COMPLIANCE
+2023-07-24,1,DAPOFRC4Z,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-07-25,4,DAPOFRC4Z,F008,# 08. Time as a public health control; procedures & records,OUT OF COMPLIANCE
+2023-07-26,1,DAPOFRC4Z,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-07-27,1,DAPOFRC4Z,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-07-28,2,DAPOFRC4Z,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-07-29,1,DAPOFRC4Z,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-07-30,1,DARD07ZGO,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-07-31,1,DARD07ZGO,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-08-01,0,DARD07ZGO,F050,# 51. Permit Suspension,OUT OF COMPLIANCE
+2023-08-02,4,DARD07ZGO,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-08-03,1,DARD07ZGO,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2023-08-04,1,DARD07ZGO,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-08-05,1,DARD07ZGO,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-08-06,1,DARD07ZGO,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-08-07,1,DAHIB4AOO,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-08-08,4,DAHIB4AOO,F021,# 21b. Water available,OUT OF COMPLIANCE
+2023-08-09,1,DACY97FNM,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-08-10,1,DACY97FNM,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-08-11,2,DACY97FNM,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-08-12,1,DACY97FNM,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2023-08-13,2,DAGAUEWRM,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-08-14,4,DAGAUEWRM,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-08-15,4,DAGAUEWRM,F013,"# 13. Food in good condition, safe and unadulterated",OUT OF COMPLIANCE
+2023-08-16,1,DAGAUEWRM,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-08-17,1,DAGAUEWRM,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2023-08-18,1,DAGAUEWRM,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-08-19,1,DAGAUEWRM,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-08-20,1,DAGAUEWRM,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-08-21,1,DAGAUEWRM,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-08-22,1,DAGAUEWRM,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-08-23,1,DAGAUEWRM,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-08-24,1,DAGAUEWRM,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-08-25,1,DAGAUEWRM,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-08-26,1,DACH4TGOW,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-08-27,1,DACH4TGOW,F048,# 47. Permits Available,OUT OF COMPLIANCE
+2023-08-28,2,DACH4TGOW,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-08-29,1,DAVYW4CH2,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2023-08-30,1,DACH4TGOW,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-08-31,1,DACH4TGOW,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-09-01,1,DACH4TGOW,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2023-09-02,1,DACH4TGOW,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-09-03,1,DAIXICFSH,F025,# 25. Personal cleanliness and hair restraints,OUT OF COMPLIANCE
+2023-09-04,4,DAIXICFSH,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-09-05,4,DAIXICFSH,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-09-06,1,DALVMOZVL,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-09-07,4,DALVMOZVL,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-09-08,4,DALVMOZVL,F013,"# 13. Food in good condition, safe and unadulterated",OUT OF COMPLIANCE
+2023-09-09,1,DALVMOZVL,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-09-10,1,DAKAJQBQB,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-09-11,1,DAKAJQBQB,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2023-09-12,1,DAKAJQBQB,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-09-13,1,DAKAJQBQB,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-09-14,1,DAQTBZ3OV,F038,# 38. Thermometers provided and accurate,OUT OF COMPLIANCE
+2023-09-15,1,DAQTBZ3OV,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-09-16,1,DA4XXVVN1,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-09-17,1,DA4XXVVN1,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-09-18,2,DA4XXVVN1,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2023-09-19,2,DA4XXVVN1,F001,# 01a. Demonstration of knowledge,OUT OF COMPLIANCE
+2023-09-20,2,DA4XXVVN1,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-09-21,1,DABQ8YQZL,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-09-22,1,DABQ8YQZL,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-09-23,1,DABQ8YQZL,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-09-24,1,DAVHNAJMG,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-09-25,1,DAMPQ0VM4,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-09-26,1,DAMPQ0VM4,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-09-27,1,DAMPQ0VM4,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-09-28,1,DAMPQ0VM4,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-09-29,2,DABIJC0E3,F013,"# 13. Food in good condition, safe and unadulterated",OUT OF COMPLIANCE
+2023-09-30,1,DABIJC0E3,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-10-01,1,DABIJC0E3,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-10-02,1,DABIJC0E3,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-10-03,1,DABIJC0E3,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-10-04,1,DATAG4H59,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-10-05,1,DATAG4H59,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-10-06,2,DATAG4H59,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-10-07,2,DATAG4H59,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-10-08,1,DATAG4H59,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-10-09,1,DATAG4H59,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-10-10,1,DATAG4H59,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-10-11,2,DAL0DWWNK,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2023-10-12,1,DAL0DWWNK,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-10-13,1,DAL0DWWNK,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-10-14,1,DAL0DWWNK,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-10-15,1,DAL0DWWNK,F041,# 41. Garbage and refuse properly disposed; facilities maintained,OUT OF COMPLIANCE
+2023-10-16,1,DA6KV6IE3,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-10-17,1,DA6KV6IE3,F026,"# 26. Approved thawing methods used, frozen food maintained frozen",OUT OF COMPLIANCE
+2023-10-18,1,DA6KV6IE3,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-10-19,1,DA6KV6IE3,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-10-20,0,DA6KV6IE3,F049,# 50. Impoundment of unsanitary equipment or food,OUT OF COMPLIANCE
+2023-10-21,1,DA6KV6IE3,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-10-22,1,DA6KV6IE3,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-10-23,2,DA6KV6IE3,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-10-24,1,DAPIE2K2C,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-10-25,1,DAPIE2K2C,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-10-26,1,DAPIE2K2C,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-10-27,1,DAPIE2K2C,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-10-28,1,DAPIE2K2C,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-10-29,1,DAPIE2K2C,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-10-30,1,DATFEJG0V,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-10-31,1,DATFEJG0V,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-11-01,1,DATFEJG0V,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-11-02,4,DATFEJG0V,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-11-03,2,DATFEJG0V,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-11-04,1,DATFEJG0V,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-11-05,1,DAEYBOUTZ,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-11-06,2,DAEYBOUTZ,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-11-07,1,DAEYBOUTZ,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-11-08,2,DAEYBOUTZ,F013,"# 13. Food in good condition, safe and unadulterated",OUT OF COMPLIANCE
+2023-11-09,1,DAEYBOUTZ,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-11-10,1,DAEYBOUTZ,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-11-11,1,DAEYBOUTZ,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-11-12,1,DAEYBOUTZ,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2023-11-13,1,DAYVLDRUZ,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-11-14,1,DAYVLDRUZ,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-11-15,4,DAYVLDRUZ,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-11-16,2,DA70FSJ0C,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-11-17,1,DA70FSJ0C,F042,"# 42. Toilet facilities: properly constructed, supplied, cleaned",OUT OF COMPLIANCE
+2023-11-18,1,DA70FSJ0C,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-11-19,2,DAT1X81JE,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-11-20,1,DAT1X81JE,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-11-21,2,DAT1X81JE,F013,"# 13. Food in good condition, safe and unadulterated",OUT OF COMPLIANCE
+2023-11-22,1,DAT1X81JE,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-11-23,1,DAT1X81JE,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2023-11-24,1,DALLRLMWN,F029,"# 29. Toxic substances properly identified, stored, used",OUT OF COMPLIANCE
+2023-11-25,2,DALLRLMWN,F023,"# 23. No rodents, insects, birds, or animals",OUT OF COMPLIANCE
+2023-11-26,1,DALLRLMWN,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-11-27,1,DALLRLMWN,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-11-28,1,DAOMJPJCK,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-11-29,1,DAOMJPJCK,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-11-30,2,DAOMJPJCK,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-12-01,2,DAOMJPJCK,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-12-02,2,DAOMJPJCK,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-12-03,1,DAXE2B50E,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-12-04,1,DAXE2B50E,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-12-05,2,DAXE2B50E,F052,# 01b. Food safety certification,OUT OF COMPLIANCE
+2023-12-06,1,DAXE2B50E,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-12-07,1,DAXE2B50E,F039,# 39. Wiping cloths: properly used and stored,OUT OF COMPLIANCE
+2023-12-08,4,DAVDSD08H,F007,# 07. Proper hot and cold holding temperatures,OUT OF COMPLIANCE
+2023-12-09,2,DAVDSD08H,F014,# 14. Food contact surfaces: clean and sanitized,OUT OF COMPLIANCE
+2023-12-10,1,DAVDSD08H,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-12-11,1,DAVDSD08H,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-12-12,1,DAVDSD08H,F036,"# 36. Equipment, utensils and linens: storage and use",OUT OF COMPLIANCE
+2023-12-13,1,DAVDSD08H,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-12-14,1,DAVDSD08H,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
+2023-12-15,2,DAVDSD08H,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-12-16,1,DAVDSD08H,F037,"# 37. Adequate ventilation and lighting; designated areas, use",OUT OF COMPLIANCE
+2023-12-17,1,DAVYW4CH2,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-12-18,1,DAVYW4CH2,F032,# 32. Food properly labeled & honestly presented,OUT OF COMPLIANCE
+2023-12-19,1,DAVYW4CH2,F035,"# 35. Equipment/Utensils - approved; installed; clean; good repair, capacity",OUT OF COMPLIANCE
+2023-12-20,1,DAVYW4CH2,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-12-21,1,DAVYW4CH2,F033,# 33. Nonfood-contact surfaces clean and in good repair,OUT OF COMPLIANCE
+2023-12-22,2,DAVYW4CH2,F006,# 06. Adequate handwashing facilities supplied & accessible,OUT OF COMPLIANCE
+2023-12-23,1,DAB08Q6JB,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-12-24,1,DAMWFSN90,F030,# 30. Food properly stored; food storage containers identified,OUT OF COMPLIANCE
+2023-12-25,1,DAMWFSN90,F040,"# 40. Plumbing: Plumbing in good repair, proper backflow devices",OUT OF COMPLIANCE
+2023-12-26,1,DAMWFSN90,F034,"# 34. Warewashing facilities: Adequate, maintained, properly use, test strips available",OUT OF COMPLIANCE
+2023-12-27,2,DA8NYCS3G,F013,"# 13. Food in good condition, safe and unadulterated",OUT OF COMPLIANCE
+2023-12-28,1,DA8NYCS3G,F048,# 47. Permits Available,OUT OF COMPLIANCE
+2023-12-29,1,DA8NYCS3G,F043,# 43. Premises; personal/cleaning items; vermin-proofing,OUT OF COMPLIANCE
+2023-12-30,1,DA8NYCS3G,F046,# 46. Signs posted; last inspection report available,OUT OF COMPLIANCE
+2023-12-31,1,DAYPXKIZR,F044,"# 44. Floors, walls and ceilings: properly built, maintained in good repair and clean",OUT OF COMPLIANCE
