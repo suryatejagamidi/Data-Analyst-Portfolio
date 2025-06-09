@@ -55,4 +55,4 @@ Each project includes detailed documentation, datasets, and code where applicabl
 
 ## Contact
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/suryatejagamidi/)
+- **Email-id**: suryatg2025@gmail.com
