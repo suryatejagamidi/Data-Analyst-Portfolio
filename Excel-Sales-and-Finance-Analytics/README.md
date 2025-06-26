@@ -26,7 +26,6 @@ This project aims to enable Atliq Hardware to make data-driven business decision
   - Customers like Amazon and Flipkart consistently showed significant growth rates above 200%.
   - Smaller customers like Logic Stores and Electricalsquipo recorded growth exceeding 500%, indicating opportunities for scaling partnerships.
 
----
 
 ### 2. Market Performance vs Sales Target
 - **Purpose**: Assess how different countries performed against their sales targets in 2021.
