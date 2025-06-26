@@ -56,16 +56,6 @@ This project aims to enable Atliq Hardware to make data-driven business decision
   - [View Report: P&L Statement by Month](files/P&L%20Statement%20by%20Months.pdf)
 """
 
-# Save to a file
-file_path = "/mnt/data/Financial_Performance_Analysis_README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
-
- 
----
-
 ## Actionable Insights
 1. **Customer Growth Opportunities**:
    - Expand partnerships with high-growth customers like Amazon and Flipkart.
