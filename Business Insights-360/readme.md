@@ -47,7 +47,7 @@ The **Business Insights 360 Dashboard** is a Power BI solution designed to integ
 ## 🔗 Live Dashboard Link
 [Click here to explore the interactive Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmQ5Njk4ZjItZGI3ZC00N2U3LWJmNTktNTZmODhiNjY5MTIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-
+> ⚠️ *Disclaimer: Version 2 is ready, but due to the limit fabrics trail period enable to update it at this point of time.*
 
 
 
