@@ -34,10 +34,6 @@ This project aims to enable Atliq Hardware to make data-driven business decision
   - **Top-Performing Markets**: India and USA significantly exceeded expectations, contributing to overall growth.
   - **Underperforming Markets**: Germany and Spain missed targets by more than 10%, requiring targeted strategies for improvement.
 
----
-# Writing the updated content to a README.md file
-
-readme_content = """
 ### 3. Financial Performance Analysis
 #### By Fiscal Year
 - **Objective**: Analyze year-over-year sales, costs, and gross margins.
